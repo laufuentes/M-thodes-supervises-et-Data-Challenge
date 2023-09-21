@@ -1,1 +1,1 @@
-# M-thodes-supervises-et-Data-Challenge
+En Master 1 de Mathématiques et Intelligence Artificielle on a travaillé sur un projet de modélisation de la consommation énergétique française pendant la pandémie du Covid avec un jeu de données recueillant des informations depuis 2012. Vous pouvez trouver ci-joint le rapport issu de notre travail. 
